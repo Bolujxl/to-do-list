@@ -1,0 +1,1 @@
+This guided project, which is part of an ongoing Udemy course, demonstrates how to use a while loop to create the ideal to-do list. Although it is fairly brief, it is incredibly effective, and since the results are previewed in the browser's console tool, it could be expanded into a more accessible & profitable product. 
